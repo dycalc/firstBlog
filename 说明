@@ -1,2 +1,5 @@
 照着别人的教程写的
 教程地址是：http://railscasts-china.com/episodes/rails-tutorial?autoplay=true
+
+2015圣诞活动跳过脚本
+$J.post("/app/7", { sessionid: g_sessionID, appid_to_clear_from_queue: 游戏ID });
