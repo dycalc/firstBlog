@@ -25,3 +25,5 @@ siege -c 300 -r 100 -f url.txt
 
 urls.txt文件：是很多行待测试URL的列表以换行符断开,格式为:
 [protocol://]host.domain.com[:port][path/to/file]
+
+原文地址：http://www.2cto.com/kf/201503/385532.html
